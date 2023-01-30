@@ -22,4 +22,4 @@ Practicas:
      
 Parcial2: 
 
-     1. Ejercicio2: Programa donde tiene un toggle de led (progrma principal) y dos interrucciones (una de baja y alta prioridad), donde la de baja prioridad(INT0) hace                      una secuencia de leds y la de alta prioridad, donde INT1 captura el par de leds y vuelve al programa principal y por ultimo INT2 apaga los leds y                        regresa al programa principal.            
+     1. Ejercicio2: Programa donde tiene un toggle de led (progrma principal) y dos interrucciones (una de baja y alta prioridad), donde la de baja prioridad(INT0) hace una secuencia de leds y la de alta prioridad, donde INT1 captura el par de leds y vuelve al programa principal y por ultimo INT2 apaga los leds y regresa al programa principal.            
